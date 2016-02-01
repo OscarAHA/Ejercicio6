@@ -15,7 +15,10 @@ public class Ejercicio6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Anyi Johana Valverde");
+        Gato objeto = new Gato();
+        objeto.setColor("Gris");
+        System.out.println(objeto.getColor());
     }
     
 }
