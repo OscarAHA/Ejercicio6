@@ -19,6 +19,11 @@ public class Ejercicio6 {
         Arana objeto = new Arana();
         objeto.setNombre("Arañita");
         System.out.println("Nombre : "+objeto.getNombre());
+        
+        System.out.println("Anyi Johana Valverde");
+        Gato objeto1 = new Gato();
+        objeto1.setColor("Gris");
+        System.out.println(objeto1.getColor());
     }
     
 }
